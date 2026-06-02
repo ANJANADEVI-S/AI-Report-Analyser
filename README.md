@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Health Report Analyzer & Patient Summary Agent
 
 An MVP for parsing lab reports, flagging abnormal values, explaining findings in patient-friendly language, tracking trends over time, and generating doctor-visit questions.
@@ -50,3 +51,6 @@ sample_reports/sample_report_1.txt
 2. Abnormality Detector normalizes tests and classifies severity.
 3. Medical Explainer produces patient-friendly summaries and doctor questions.
 4. Trend Analyzer compares the current report with previous reports.
+=======
+# AI-Report-Analyser
+>>>>>>> 9effecc87a0d970ee9fa5d1df57bc6f53ac44056
