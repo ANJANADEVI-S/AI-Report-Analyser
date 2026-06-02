@@ -1,0 +1,37 @@
+canonical_name,aliases,unit,low,high,critical_low,critical_high,plain_name,description
+Hemoglobin,Hb|Haemoglobin,g/dL,12.0,17.5,7.0,20.0,Hemoglobin,Measures oxygen-carrying protein in red blood cells.
+Total WBC,WBC|White Blood Cells|Total Leukocyte Count,10^3/uL,4.0,11.0,2.0,30.0,White blood cell count,Measures immune cells that help fight infection.
+Platelet Count,Platelets|PLT,10^3/uL,150,450,50,1000,Platelet count,Measures cells that help blood clot.
+RBC Count,RBC|Red Blood Cell Count,million/uL,4.2,5.9,2.5,7.0,Red blood cell count,Measures the number of red blood cells.
+Hematocrit,HCT|PCV,%,36,52,20,65,Hematocrit,Shows the percentage of blood made up of red blood cells.
+MCV,Mean Corpuscular Volume,fL,80,100,65,120,MCV,Shows the average size of red blood cells.
+MCH,Mean Corpuscular Hemoglobin,pg,27,33,20,40,MCH,Shows the average hemoglobin amount in red blood cells.
+MCHC,Mean Corpuscular Hemoglobin Concentration,g/dL,32,36,25,40,MCHC,Shows hemoglobin concentration inside red blood cells.
+Fasting Glucose,FBS|Fasting Blood Sugar|Glucose Fasting,mg/dL,70,99,50,300,Fasting blood glucose,Measures blood sugar after fasting.
+Random Glucose,RBS|Random Blood Sugar,mg/dL,70,140,50,400,Random blood glucose,Measures blood sugar at a non-fasting time.
+HbA1c,Glycated Hemoglobin|A1C,%,4.0,5.6,3.0,10.0,HbA1c,Estimates average blood sugar over about three months.
+Total Cholesterol,Cholesterol Total,mg/dL,0,200,0,300,Total cholesterol,Measures overall cholesterol in the blood.
+LDL Cholesterol,LDL|LDL-C,mg/dL,0,100,0,190,LDL cholesterol,Often called bad cholesterol because high levels can increase heart risk.
+HDL Cholesterol,HDL|HDL-C,mg/dL,40,100,20,120,HDL cholesterol,Often called good cholesterol because higher levels are generally protective.
+Triglycerides,TG,mg/dL,0,150,0,500,Triglycerides,Measures a type of blood fat related to diet and metabolism.
+Creatinine,Serum Creatinine,mg/dL,0.6,1.3,0.2,5.0,Creatinine,Helps assess kidney filtration.
+Urea,Blood Urea|BUN,mg/dL,7,20,3,80,Urea,Reflects protein breakdown and kidney function.
+Uric Acid,Urate,mg/dL,3.5,7.2,1.5,12.0,Uric acid,Can relate to gout risk and kidney handling of uric acid.
+Sodium,Na|Serum Sodium,mmol/L,135,145,125,155,Sodium,An electrolyte important for fluid balance and nerves.
+Potassium,K|Serum Potassium,mmol/L,3.5,5.1,2.8,6.2,Potassium,An electrolyte important for heart and muscle function.
+Chloride,Cl|Serum Chloride,mmol/L,98,107,85,120,Chloride,An electrolyte involved in fluid and acid-base balance.
+Calcium,Serum Calcium,mg/dL,8.5,10.5,7.0,12.5,Calcium,Important for bones, nerves, muscles, and heart rhythm.
+TSH,Thyroid Stimulating Hormone,uIU/mL,0.4,4.5,0.05,20.0,TSH,Helps assess thyroid signaling.
+T3,Triiodothyronine,ng/dL,80,180,40,300,T3,A thyroid hormone involved in metabolism.
+T4,Thyroxine,ug/dL,4.5,12.0,2.0,20.0,T4,A thyroid hormone involved in metabolism.
+ALT,SGPT|Alanine Transaminase,U/L,0,45,0,300,ALT,A liver enzyme that may rise with liver cell irritation.
+AST,SGOT|Aspartate Transaminase,U/L,0,40,0,300,AST,A liver or muscle enzyme that may rise with tissue irritation.
+ALP,Alkaline Phosphatase,U/L,44,147,20,500,ALP,An enzyme linked to bile ducts and bones.
+Bilirubin Total,Total Bilirubin,mg/dL,0.1,1.2,0,5.0,Total bilirubin,Measures a pigment processed by the liver.
+Albumin,Serum Albumin,g/dL,3.5,5.0,2.0,6.0,Albumin,A blood protein made by the liver.
+Vitamin D,25 OH Vitamin D|25-Hydroxy Vitamin D,ng/mL,30,100,10,150,Vitamin D,Supports bone health and immune function.
+Vitamin B12,B12|Cobalamin,pg/mL,200,900,100,1500,Vitamin B12,Supports nerves and red blood cell production.
+Ferritin,Serum Ferritin,ng/mL,30,400,10,1000,Ferritin,Reflects stored iron.
+Iron,Serum Iron,ug/dL,60,170,20,300,Serum iron,Measures circulating iron.
+ESR,Erythrocyte Sedimentation Rate,mm/hr,0,20,0,100,ESR,A non-specific marker of inflammation.
+CRP,C-Reactive Protein,mg/L,0,5,0,100,CRP,A marker that may rise with inflammation or infection.

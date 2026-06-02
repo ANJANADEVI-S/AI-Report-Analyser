@@ -1,0 +1,22 @@
+Patient: Demo Patient
+Report Date: 2026-05-12
+
+Complete Blood Count
+Hemoglobin 10.8 g/dL 12.0 - 17.5
+Total WBC 12.5 10^3/uL 4.0 - 11.0
+Platelet Count 240 10^3/uL 150 - 450
+
+Diabetes Profile
+Fasting Glucose 118 mg/dL 70 - 99
+HbA1c 6.1 % 4.0 - 5.6
+
+Lipid Profile
+Total Cholesterol 218 mg/dL < 200
+LDL Cholesterol 142 mg/dL < 100
+HDL Cholesterol 38 mg/dL > 40
+Triglycerides 176 mg/dL < 150
+
+Kidney Function
+Creatinine 1.1 mg/dL 0.6 - 1.3
+Sodium 139 mmol/L 135 - 145
+Potassium 4.4 mmol/L 3.5 - 5.1

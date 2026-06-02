@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+health_reports.db
+.env
+.venv/
+streamlit.out.log
+streamlit.err.log
